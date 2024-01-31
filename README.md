@@ -6,4 +6,11 @@
 <p>Recreated the functionality and design of the other Ecommerce website.</p>
 <ul>
   <li>User and Admin both can login and  can access the page according to their requirements</li>
+  <li>Login and Signin page</li>
+  <li>Home page with ,Navbar ,Category and Brand filters  </li>
+  <li>Add To cart  Page </li>
+   <li> Choose and select the quantity of product </li>
+    <li>User and admin can place the thier order and pay the money </li>
+     <li>user address and payment methos also requred for placing order </li>
+  
 </ul>
