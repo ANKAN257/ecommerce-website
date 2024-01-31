@@ -12,6 +12,12 @@
    <li> Choose and select the quantity of product </li>
     <li>User and admin can place the thier order and pay the money </li>
      <li>user address and payment methos also requred for placing order </li>
-     jbsjbdjbjbd
+  
   
 </ul>
+<h1>SetUp</h1>
+</hr>
+<p>To run the project on local machine, ecommerce repositeries and dummy json server are required to run.</p>
+<p>fronted running of 3000 port</p>
+<p>dummy json server of 8080 port</p>
+<p>Following are some of the snapshots of the project - </p>
