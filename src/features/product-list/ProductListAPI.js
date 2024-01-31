@@ -38,8 +38,6 @@ export function updateProduct(update) {
   });
 }
 
-
-
 export function fetchProductById(id) {
   return new Promise(async (resolve) =>{
     //TODO: we will not hard-code server URL here
@@ -83,8 +81,6 @@ export function fetchProductsByFilters(filter,sort,pagination) {
   }
   );
 }
-
-
 
 export function fetchCategories() {
   return new Promise(async (resolve) =>{

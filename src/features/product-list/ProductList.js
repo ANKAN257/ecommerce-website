@@ -69,8 +69,11 @@ export default function ProductList() {
 
 
   const handleFilter = (e, section, option) => {
-    console.log(e.target.checked);
+    // console.log("filter hu bro  ");
+    // console.log(e.target.checked);
     const newFilter = { ...filter };
+    // console.log("hello bro mai hu new filter "+newFilter[section.id] +"oky ");
+    
     // TODO : on server it will support multiple categories
     if (e.target.checked) {
       if (newFilter[section.id]) {

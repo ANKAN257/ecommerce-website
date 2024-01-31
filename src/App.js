@@ -100,17 +100,18 @@ const router = createBrowserRouter([
   {
     path: '/admin/product-form',
     element: (
-      <ProtectedAdmin>
-        <AdminProductFormPage></AdminProductFormPage>
-      </ProtectedAdmin>
+      // <ProtectedAdmin>
+      //   <AdminProductFormPage></AdminProductFormPage>
+      // </ProtectedAdmin>
+      <AdminProductFormPage></AdminProductFormPage>
     ),
   },
   {
     path: '/admin/product-form/edit/:id',
     element: (
-      <ProtectedAdmin>
+      // <ProtectedAdmin>
         <AdminProductFormPage></AdminProductFormPage>
-      </ProtectedAdmin>
+      // </ProtectedAdmin>
     ),
   },
 
@@ -189,7 +190,7 @@ function App() {
     <>
        <div className="App">
         <RouterProvider router={router} />
-  </div>
+       </div>
     </>
   );
 }
