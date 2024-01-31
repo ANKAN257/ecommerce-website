@@ -12,5 +12,6 @@
    <li> Choose and select the quantity of product </li>
     <li>User and admin can place the thier order and pay the money </li>
      <li>user address and payment methos also requred for placing order </li>
+     jbsjbdjbjbd
   
 </ul>
