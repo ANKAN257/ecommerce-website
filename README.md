@@ -1,4 +1,4 @@
-![image](https://github.com/ANKAN257/ecommerce-website/assets/98656607/5c65d2ed-bc39-49a5-ad70-951da38dbc6a)<h1>Ecommerce website</h1>
+<h1>Ecommerce website</h1>
 <p> Online products  selling website </p>
 </hr>
 <h1>Introduction</h1>
@@ -28,7 +28,7 @@
 ![admin and user login ](https://github.com/ANKAN257/ecommerce-website/assets/98656607/c8d4a88f-371f-44d2-87ed-817578d405b8)
 
 ![create account apge](https://github.com/ANKAN257/ecommerce-website/assets/98656607/d8056254-9669-466f-a7ec-a1725bf8b8da)
-
+![image](https://github.com/ANKAN257/ecommerce-website/assets/98656607/5c65d2ed-bc39-49a5-ad70-951da38dbc6a)
 
 ![home pagewith product](https://github.com/ANKAN257/ecommerce-website/assets/98656607/2ff7352f-48dc-4c6b-90bb-a603cde0efcd)
 
@@ -52,3 +52,5 @@
 
 ![admin add new product for user](https://github.com/ANKAN257/ecommerce-website/assets/98656607/602049c9-1d25-434a-9d0a-ac9a35f01df9)
 ![admin add new product for user2](https://github.com/ANKAN257/ecommerce-website/assets/98656607/2a313256-efd4-44a3-acf3-b7cbbf32c300)
+![all item order placed by users](https://github.com/ANKAN257/ecommerce-website/assets/98656607/c865b3c5-cbcb-4f9b-81a5-c59cb095080b)
+
